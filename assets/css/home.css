@@ -3,7 +3,7 @@ main {
     text-align: center;
     align-items: center;
     flex-direction: column;
-    background-color: #2a2a2a;
+    background-color: #1a1a1a;
     position: fixed;
     border-radius: 10px;
     margin-top: 10vh;
@@ -11,6 +11,10 @@ main {
     top: 20%;
     right: 40%;
     left: 40%;
+}
+
+main .box {
+    background-color: #2a2a2a
 }
 
 main .box img {
